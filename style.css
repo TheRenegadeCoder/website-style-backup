@@ -1,0 +1,45 @@
+.article-card.horizontal .image-container {
+  height: 150px;
+}
+
+.site-branding a {
+  text-decoration: none;
+}
+
+.pagination-wrapper a, .pagination-wrapper .page-numbers {
+  color: #FFF;
+}
+
+.page-numbers {
+  background: #c90229;
+}
+
+.page-numbers.current {
+  background: #363940;
+}
+
+ins.adsbygoogle { 
+  background: transparent !important; 
+}
+
+.article-card .image-container {
+  height: 180px;
+}
+
+.wp-block-image, #ez-toc-container {
+  border: 2px solid;
+  border-radius: 5px;
+  padding: 15px;
+  border-color: #e2e2e8;
+  background: #f7f7fa;
+}
+
+figcaption { 
+  text-align: center;
+}
+
+.wp-block-embed-twitter .twitter-tweet {
+  display: block;
+  margin-left: auto;
+  margin-right: auto 
+}
