@@ -39,7 +39,23 @@ figcaption {
 }
 
 .wp-block-embed-twitter .twitter-tweet {
-  display: block;
-  margin-left: auto;
-  margin-right: auto 
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.attachmentid-23949 .entry-content .attachment {
+  display: none;
+}
+
+.attachment .recent-articles-container {
+  display: None;
+}
+
+.attachment .h2 {
+  display: None;
+}
+
+.attachment .author-card {
+  display: None;
 }
