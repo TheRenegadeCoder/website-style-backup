@@ -1,5 +1,9 @@
 .article-card.horizontal .image-container {
-  height: 150px;
+  height: 155px;
+}
+
+.article-card .image-container {
+  background-size: contain;
 }
 
 .site-branding a {
@@ -20,10 +24,6 @@
 
 ins.adsbygoogle { 
   background: transparent !important; 
-}
-
-.article-card .image-container {
-  height: 180px;
 }
 
 .wp-block-image, .lwptoc, .blocks-gallery-item, .wp-block-table {
@@ -75,4 +75,15 @@ kbd {
   border-radius: 3px;
   box-shadow: 0 1px 0 rgba(12,13,14,0.2),0 0 0 2px #FFF inset;
   white-space: nowrap;
+}
+
+.wp-block-tag-cloud .tag-cloud-link {
+  padding: 2px;
+  border: 2px solid;
+  border-color: #e2e2e8;
+  background: #f7f7fa;
+  border-radius: 5px;
+  margin: 0 5px 5px 0;
+  text-decoration: none;
+  display: inline-block;
 }
